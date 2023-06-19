@@ -35,7 +35,7 @@ func GetBio() Bio {
 <p align="center">
 
   <a href="https://www.facebook.com/geckoyuil157">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png]" height="30" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" height="30" width="30">
   </a>
 
 

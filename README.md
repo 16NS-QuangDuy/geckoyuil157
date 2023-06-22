@@ -1,4 +1,4 @@
-# Angel Jaime
+# Nguyen Quang Duy
 
 <h2 align="center">About me</h2>
 
